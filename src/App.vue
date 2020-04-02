@@ -16,6 +16,10 @@ export default {
 </script>
 
 <style lang="scss">
+body {
+  background-color: #e5e6eb;
+}
+
 .container {
   max-width: 62rem;
 }
